@@ -1,6 +1,7 @@
 # C_plus_plus
 Fundamentos de c++
-Tipos de datos, variables y constantes
+
+-Tipos de datos, variables y constantes
 
 -Operadores
 
